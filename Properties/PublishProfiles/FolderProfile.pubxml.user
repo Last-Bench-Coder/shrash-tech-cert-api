@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- https://go.microsoft.com/fwlink/?LinkID=208121. -->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\SourceCode\POC\shrash-tech-certificate-gen-api\shrash-tech-certificate-gen-api\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2025-05-16T15:05:21.8199789Z||;True|2025-05-16T19:56:14.1280141+05:30||;True|2025-05-16T19:49:52.9415007+05:30||;True|2025-05-16T19:11:27.0115613+05:30||;True|2025-05-16T18:56:00.5014921+05:30||;True|2025-05-16T18:40:54.6340074+05:30||;True|2025-05-16T18:40:00.6898568+05:30||;True|2025-05-16T18:09:09.3880562+05:30||;True|2025-05-16T14:51:57.2910183+05:30||;True|2025-05-16T14:51:46.9686439+05:30||;True|2025-05-16T14:37:27.1867648+05:30||;True|2025-05-16T14:14:17.9328213+05:30||;True|2025-05-16T13:28:34.3094623+05:30||;True|2025-05-16T13:21:28.9567418+05:30||;True|2025-05-16T13:19:24.3883346+05:30||;True|2025-05-16T12:32:45.8841171+05:30||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
